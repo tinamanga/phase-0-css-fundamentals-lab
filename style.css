@@ -3,3 +3,51 @@ body {
   height: 100%;
   margin: 0;
 }
+header{
+  text-align: center;
+}
+h1{
+  color: red;
+}
+img {
+  max-width: 100%;
+  width: 900px;
+  height: auto;
+  vertical-align: middle;
+  border: 0;
+  justify-content: center;
+}
+html {
+  font-size: 100%;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+
+}
+body {
+  font-size: 16px;
+  font-size: 1rem;
+  font-weight: normal;
+  line-height: 1.5;
+  color: var(--ic-brand-font-color-dark);
+  -webkit-font-smoothing: antialiased;
+}
+a.nav{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.caption {
+  width: 200px;
+  text-align: center;
+}
+p{
+  text-align: center;
+  width: 800px;
+}
+div{
+  float: left;
+}
+div{
+  background-color: red;
+  text-align: center;
+  width: 25%;
+}
